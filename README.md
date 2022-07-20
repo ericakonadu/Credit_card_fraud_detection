@@ -1,6 +1,6 @@
 ## Credit Card Fraud Detection
 
-### CREDITS
+#### CREDITS
 
 @book{leborgne2022fraud,
 title={Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook},
