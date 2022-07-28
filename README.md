@@ -1,11 +1,4 @@
-## Credit Card Fraud Detection
+## Credit Card Fraud Detection 💳
+In this project, I'm working on a model to predict credit card fraud. This project is still in its development form 🏗️ ..
 
-#### CREDITS
 
-@book{leborgne2022fraud,
-title={Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook},
-author={Le Borgne, Yann-A{\"e}l and Siblini, Wissam and Lebichot, Bertrand and Bontempi, Gianluca},
-url={https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook},
-year={2022},
-publisher={Universit{\'e} Libre de Bruxelles}
-}
